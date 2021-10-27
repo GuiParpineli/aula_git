@@ -1,0 +1,1 @@
+"Conflito é bom até a letra C"
